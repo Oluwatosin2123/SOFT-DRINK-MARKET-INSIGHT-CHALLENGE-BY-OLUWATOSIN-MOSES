@@ -47,15 +47,18 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Outlet type vs. brand availability
 - Market share of leading soft drink brands
 (Add plots here once generated with Matplotlib/Seaborn)
+
+* Bar Charts → brand presence across outlets
+* Histograms → distribution of numerical variables (e.g., outlet counts, availability)
+* Pie Charts → packaging preferences (bottle, can, PET)
+* Count Plots → frequency of categorical features (outlet types, brands)
+
+
 ### Key Findings
 - Certain brands dominate availability across outlets
 - PET bottles are the most common packaging format
 - Small retail shops contribute significantly to distribution
 - Consumer preference trends align with affordability and accessibility
-### Next Steps
-- Expand survey coverage to other LGAs in Lagos
-- Perform sentiment analysis on consumer preferences
-- Compare brand presence with national-level data
 
 
 
