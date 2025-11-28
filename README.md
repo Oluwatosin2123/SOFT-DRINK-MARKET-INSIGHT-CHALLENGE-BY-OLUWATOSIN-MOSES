@@ -1,0 +1,2 @@
+# SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES
+The Soft Drink Market Insight Challenge is a data visualization competition focused on analyzing real-world survey data from Alimosho Local Government Area, Lagos, Nigeria. I hereby explore soft drink availability, packaging, outlet types, and brand presence to uncover insights into market distribution, consumer trends, and brand dominance.
