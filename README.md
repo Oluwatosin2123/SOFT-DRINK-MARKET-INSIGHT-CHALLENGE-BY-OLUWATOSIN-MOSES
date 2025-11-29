@@ -47,8 +47,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Distribution of soft drink packaging types
 - Outlet type vs. brand availability
 - Market share of leading soft drink brands
-[Image](img width="850" height="547" alt="download" src="https://github.com/user-attachments/assets/8d8ed33e-09a0-4cbb-b5b7-0f4ca6468e35)
-here once generated with Matplotlib/Seaborn)
+![image alt]()
 
 * Bar Charts → brand presence across outlets
 * Histograms → distribution of numerical variables (e.g., outlet counts, availability)
