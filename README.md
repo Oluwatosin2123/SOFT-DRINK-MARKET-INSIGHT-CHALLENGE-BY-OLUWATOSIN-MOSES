@@ -12,7 +12,8 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Examine brand presence and dominance in the market
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook for interactive analysis
+- Jupyter Notebook for interactive analysis find file here
+- ### Jupyter Notebook [Download Here]
 - GitHub for version control and documentation
 
 ### Excel Analysis
