@@ -20,6 +20,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Used pivot tables to summarize brand presence
 - Created charts for packaging distribution
 - Verified data consistency before BI integration
+- ### EXCEL [Download Here]
 ### Power BI Dashboard
 - Built interactive dashboards for:
 - Outlet type vs. brand availability
