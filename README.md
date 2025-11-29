@@ -13,7 +13,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook for interactive analysis find file here
-- ### Jupyter Notebook [Download Here](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/a731116c0f3ec0af62896023104f6a77a525a1ee/Softdrink%20Market%20Challenge.ipynb)
+- ### Jupyter Notebook [Download Here](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/e8808177e141a34015ad8458fc8deeea072ea9c2/Softdrink%20Market%20insight%20Challenge.ipynb)
 - GitHub for version control and documentation
 
 ### Excel Analysis
