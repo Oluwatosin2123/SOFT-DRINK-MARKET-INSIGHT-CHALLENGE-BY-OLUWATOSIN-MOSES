@@ -20,7 +20,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Used pivot tables to summarize brand presence
 - Created charts for packaging distribution
 - Verified data consistency before BI integration
-- ### EXCEL [Download Here]
+- ### EXCEL [Download Here](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/c6a1b44cffeeadc7b376f5be67afe90e652bb316/SOFTDRINK%20GETNERVS.xlsx)
 ### Power BI Dashboard
 - Built interactive dashboards for:
 - Outlet type vs. brand availability
@@ -49,7 +49,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Outlet type vs. brand availability
 - Market share of leading soft drink brands
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/e2182ae212467d4373bd5f376724dafe2141d78f/download.png)
-
+![image alt]()
 * Bar Charts → brand presence across outlets
 * Histograms → distribution of numerical variables (e.g., outlet counts, availability)
 * Pie Charts → packaging preferences (bottle, can, PET)
