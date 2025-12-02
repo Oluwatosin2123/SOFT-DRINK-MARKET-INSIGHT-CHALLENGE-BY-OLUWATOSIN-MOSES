@@ -52,6 +52,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/e2182ae212467d4373bd5f376724dafe2141d78f/download.png)
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/1af19a424db3280dae77f4b44cd8b43996be7ed5/SOFTDRINK%20INSIGHT%20DASHBORD.png)
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/9e6fe60d18fc88d062e41c7e8ae262db809c1316/Table%20view%20Powerbi.png)
+![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/d7e180dca217f02927741a6946f237c75b861780/Model%20POWERBI.png)
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/52a8066b4d4e2978a4fdfac37010a3715a84ea17/DASHBORD%20Powerbi%20softdrink.png)
 * Bar Charts → brand presence across outlets
 * Histograms → distribution of numerical variables (e.g., outlet counts, availability)
