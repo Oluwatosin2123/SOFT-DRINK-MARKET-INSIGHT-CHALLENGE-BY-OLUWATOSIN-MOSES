@@ -26,7 +26,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Outlet type vs. brand availability
 - Packaging preferences (bottles, cans, PET)
 - Market share of leading soft drink brands
-- ### Power BI Dashboard [Download Here]
+- ### Power BI Dashboard [Download Here](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/78223e2785c91030ba4c05f6cfab1f705ed1caf3/Softdrink%20Dashboard%20V.pbix)
 
 ### Project Workflow
 - Data Inspection
