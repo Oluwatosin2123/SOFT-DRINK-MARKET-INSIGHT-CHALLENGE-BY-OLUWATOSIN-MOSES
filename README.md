@@ -51,7 +51,7 @@ The goal is to uncover insights into market distribution, consumer trends, and b
 - Market share of leading soft drink brands
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/e2182ae212467d4373bd5f376724dafe2141d78f/download.png)
 ![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/1af19a424db3280dae77f4b44cd8b43996be7ed5/SOFTDRINK%20INSIGHT%20DASHBORD.png)
-![image alt]()
+![image alt](https://github.com/Oluwatosin2123/SOFT-DRINK-MARKET-INSIGHT-CHALLENGE-BY-OLUWATOSIN-MOSES/blob/9e6fe60d18fc88d062e41c7e8ae262db809c1316/Table%20view%20Powerbi.png)
 ![image alt]()
 * Bar Charts → brand presence across outlets
 * Histograms → distribution of numerical variables (e.g., outlet counts, availability)
